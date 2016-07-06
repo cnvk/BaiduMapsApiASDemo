@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapsApiASDemo.iml" filepath="$PROJECT_DIR$/BaiduMapsApiASDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpsbaidumap/gpsbaidumap.iml" filepath="$PROJECT_DIR$/gpsbaidumap/gpsbaidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanimationdemo1/myanimationdemo1.iml" filepath="$PROJECT_DIR$/myanimationdemo1/myanimationdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimation1/propertyanimation1.iml" filepath="$PROJECT_DIR$/propertyanimation1/propertyanimation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" filepath="$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" filepath="$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo1/viewpagerdemo1.iml" filepath="$PROJECT_DIR$/viewpagerdemo1/viewpagerdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo2/viewpagerdemo2.iml" filepath="$PROJECT_DIR$/viewpagerdemo2/viewpagerdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo3/viewpagerdemo3.iml" filepath="$PROJECT_DIR$/viewpagerdemo3/viewpagerdemo3.iml" />
+    </modules>
+  </component>
+</project>

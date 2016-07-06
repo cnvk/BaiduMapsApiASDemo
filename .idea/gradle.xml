@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gpsbaidumap" />
+            <option value="$PROJECT_DIR$/myanimationdemo1" />
+            <option value="$PROJECT_DIR$/propertyanimation1" />
+            <option value="$PROJECT_DIR$/pullToRefreshlibrary" />
+            <option value="$PROJECT_DIR$/pulltorefreshlistview" />
+            <option value="$PROJECT_DIR$/viewpagerdemo1" />
+            <option value="$PROJECT_DIR$/viewpagerdemo2" />
+            <option value="$PROJECT_DIR$/viewpagerdemo3" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gpsbaidumap" />
+            <option value="$PROJECT_DIR$/myanimationdemo1" />
+            <option value="$PROJECT_DIR$/propertyanimation1" />
+            <option value="$PROJECT_DIR$/pullToRefreshlibrary" />
+            <option value="$PROJECT_DIR$/pulltorefreshlistview" />
+            <option value="$PROJECT_DIR$/viewpagerdemo1" />
+            <option value="$PROJECT_DIR$/viewpagerdemo2" />
+            <option value="$PROJECT_DIR$/viewpagerdemo3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

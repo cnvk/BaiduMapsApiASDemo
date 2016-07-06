@@ -1,0 +1,3 @@
+include ':app', ':gpsbaidumap', ':pulltorefreshlistview', ':viewpagerdemo1', ':viewpagerdemo2', ':myanimationdemo1', ':propertyanimation1', ':viewpagerdemo3'
+
+include ':pullToRefreshlibrary'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+   android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="200"
+    android:toYDelta="0"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+    android:duration="2000">
+<!-->
+android:interpolator="@android:anim/accelerate_decelerate_interpolator"移动的速度,两头慢,中间快
+<!-->
+</translate>

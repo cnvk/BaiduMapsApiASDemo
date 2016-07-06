@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="my.microsoft.com.myanimationdemo1.TweenActivity">
+    <ImageView
+        android:id="@+id/TweenActivity_iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/sy_75741916553"/>
+    <Button
+        android:id="@+id/TweenActivity_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="透明度动画XML实现"/>
+    <Button
+        android:id="@+id/TweenActivity_btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="缩放动画XML"/>
+    <Button
+        android:id="@+id/TweenActivity_btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="位移动画XML"/>
+    <Button
+        android:id="@+id/TweenActivity_btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="旋转动画XML"/>
+    <Button
+        android:id="@+id/TweenActivity_btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="set动画集合XML"/>
+
+</LinearLayout>
